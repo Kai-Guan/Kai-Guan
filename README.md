@@ -11,11 +11,13 @@
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">My Favourite Projects</h2></summary>
+  </ul>
 </div>
 
-  ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kai-Guan&show_icons=true&theme=radical)
-  
-__Check out my GitHub repositories:__
 <div align="center">
   <p>
     <a href="https://github.com/Kai-Guan/PONG">
@@ -26,4 +28,8 @@ __Check out my GitHub repositories:__
     </a>
   </p>
 </div>
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kai-Guan)](https://github.com/anuraghazra/github-readme-stats)-->
+
+</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kai-Guan&show_icons=true&theme=radical">
+</p>
