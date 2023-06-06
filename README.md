@@ -13,11 +13,10 @@
        alt="snake" /></a>
 </div>
 
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kai-Guan&show_icons=true&theme=radical)
-
+  ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kai-Guan&show_icons=true&theme=radical)
+  
 __Check out my GitHub repositories:__
-
-<div>
+<div align="center">
   <p>
     <a href="https://github.com/Kai-Guan/PONG">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kai-Guan&repo=PONG" alt="GitHub Stuff" />
