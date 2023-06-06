@@ -12,4 +12,17 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+__Check out my GitHub repository:__
+
+<div>
+  <p>
+    <a href="https://github.com/Kai-Guan/PONG">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kai-Guan&repo=PONG" alt="GitHub Stuff" />
+    </a>
+    <a href="https://github.com/Kai-Guan/BFS-Visualisation">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kai-Guan&repo=BFS-Visualisation" alt="GitHub Stuff" />
+    </a>
+  </p>
+</div>
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kai-Guan)](https://github.com/anuraghazra/github-readme-stats)-->
