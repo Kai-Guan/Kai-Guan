@@ -13,7 +13,9 @@
        alt="snake" /></a>
 </div>
 
-__Check out my GitHub repository:__
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kai-Guan&show_icons=true&theme=radical)
+
+__Check out my GitHub repositories:__
 
 <div>
   <p>
