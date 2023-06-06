@@ -19,6 +19,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">My Favourite Projects</h2></summary>
@@ -30,6 +31,8 @@
   <a href="https://github.com/Kai-Guan/PONG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kai-Guan&repo=PONG&theme=react&hide_border=true&show_icons=false" alt="PONG" /></a>
   <a href="https://github.com/Kai-Guan/BFS-Visualisation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kai-Guan&repo=BFS-Visualisation&theme=react&hide_border=true&show_icons=false" alt="PONG" /></a>
 </div>
+
+___
 
 </div>
 <p align="center">
