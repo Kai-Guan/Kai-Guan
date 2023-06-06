@@ -23,8 +23,8 @@
 
 
 <div align="center">
-  <a href="https://github.com/Kai-Guan/PONG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kai-Guan&repo=PONG&theme=react&hide_border=true&show_icons=false" alt="PONG" /></a>
-  <a href="https://github.com/Kai-Guan/BFS-Visualisation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kai-Guan&repo=BFS-Visualisation&theme=react&hide_border=true&show_icons=false" alt="PONG" /></a>
+  <a href="https://github.com/Kai-Guan/PONG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kai-Guan&repo=PONG&theme=radical&hide_border=true&show_icons=false" alt="PONG" /></a>
+  <a href="https://github.com/Kai-Guan/BFS-Visualisation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kai-Guan&repo=BFS-Visualisation&theme=radical&hide_border=true&show_icons=false" alt="PONG" /></a>
 </div>
 
 </div>
@@ -32,7 +32,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kai-Guan&show_icons=true&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kai-Guan&show_icons=true&theme=radical">
 </p>
 
 <br>
