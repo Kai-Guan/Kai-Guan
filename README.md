@@ -7,7 +7,7 @@
 
 <div align="center">
   <kbd>
-    <a style="border:5px white" border="5px white" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&duration=3000&pause=1000&center=true&width=435&lines=print(%22I+do+python+stuff.%22);pythonStuff+%3D+%22Python%22;.--.+-.--+-+....+---+-.;def+python(stuff)%3A" alt="Typing SVG" /></a>
+    <a style="border:5px white" border="5px white" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&duration=3000&pause=1000&color=00FF00&center=true&width=435&lines=print(%22I+do+python+stuff.%22);pythonStuff+%3D+%22Python%22;.--.+-.--+-+....+---+-.;def+python(stuff)%3A;I+do+python+stuff." alt="Typing SVG" /></a>
   </kbd>
 </div>
 
