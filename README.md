@@ -4,7 +4,14 @@
   </ul>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+do+python+stuff.)](https://git.io/typing-svg)
+
+<div align="center">
+  <kbd>
+    <a style="border:5px white" border="5px white" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&duration=3000&pause=1000&center=true&width=435&lines=print(%22I+do+python+stuff.%22);pythonStuff+%3D+%22Python%22;.--.+-.--+-+....+---+-.;def+python(stuff)%3A" alt="Typing SVG" /></a>
+  </kbd>
+</div>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -18,15 +25,10 @@
   </ul>
 </div>
 
+
 <div align="center">
-  <p>
-    <a href="https://github.com/Kai-Guan/PONG">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kai-Guan&repo=PONG" alt="GitHub Stuff" />
-    </a>
-    <a href="https://github.com/Kai-Guan/BFS-Visualisation">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kai-Guan&repo=BFS-Visualisation" alt="GitHub Stuff" />
-    </a>
-  </p>
+  <a href="https://github.com/Kai-Guan/PONG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kai-Guan&repo=PONG&theme=react&hide_border=true&show_icons=false" alt="PONG" /></a>
+  <a href="https://github.com/Kai-Guan/BFS-Visualisation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kai-Guan&repo=BFS-Visualisation&theme=react&hide_border=true&show_icons=false" alt="PONG" /></a>
 </div>
 
 </div>
