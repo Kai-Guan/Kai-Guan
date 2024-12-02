@@ -8,7 +8,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">My Favourite Projects</h2></summary>
+    <summary><h2 style="display: inline-block">Things</h2></summary>
   </ul>
 </div>
 
