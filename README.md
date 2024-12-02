@@ -18,14 +18,4 @@
   <a href="https://github.com/Kai-Guan/BFS-Visualisation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kai-Guan&repo=BFS-Visualisation&theme=radical&hide_border=true&show_icons=false" alt="PONG" /></a>
 </div>
 
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kai-Guan&show_icons=true&theme=radical">
-</p>
-
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
